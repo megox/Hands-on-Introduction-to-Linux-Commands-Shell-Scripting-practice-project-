@@ -1,0 +1,4 @@
+year	month	day	obs_temp	fc_temp	accuracy	accuracy_range
+24	02	15	22		FAIR			+/-3
+24	02	16	22		POOR			+/-4
+24	02	17	22		EXCELLENT			+/-1
